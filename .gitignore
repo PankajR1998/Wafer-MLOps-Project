@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 
+.dvc/
 # C extensions
 *.so
 
@@ -87,3 +88,5 @@ target/
 
 # Mypy cache
 .mypy_cache/
+# /Training_Batch_Files
+# /Prediction_Batch_files
